@@ -1,4 +1,6 @@
 # BCG-Data-Science-And-Analytics
+![bcg_badge](https://github.com/NiharJani2002/BCG-Data-Science-And-Analytics/assets/84491997/111c521e-4513-4337-8406-9f6ea1822e29)
+
 In this virtual experience program, you will gain enviable insight into what it’s like to solve meaningful challenges with our diverse and forward-thinking team at BCG GAMMA, part of BCG X. The program will show you what kind of problems are solved at BCG GAMMA, part of BCG X and will attempt to simulate the challenges you will be facing – new terminology, ambiguity about the client goal, challenging data analysis. All those aspects form an integral part of our day-to-day work.
 
 BCG GAMMA, part of BCG X is transforming the businesses of today through data science and analytics initiatives and our goal is to help companies generate competitive advantage through these initiatives. This program is designed to give you a feel of what it is like to work at BCG GAMMA, part of BCG X as we help our clients using data science.
